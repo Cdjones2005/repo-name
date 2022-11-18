@@ -79,6 +79,10 @@ section {
 		width: 47%;
 	}
 	.size2 {
+		width: 47%;
+		float: right;
+	}
+	.size3 {
 		width: 100%;
 	}
 }
